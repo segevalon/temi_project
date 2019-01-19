@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Temi Project</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="message">Message</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="gender">Gender</string>
+    <string name="email">Email</string>
+    <string name="address">Address</string>
+
+
+</resources>
